@@ -16,15 +16,15 @@
   <circle cx="44" cy="39" r="6" fill="#FF5F57"/>
   <circle cx="65" cy="39" r="6" fill="#FEBB2E"/>
   <circle cx="86" cy="39" r="6" fill="#28C840"/>
-  <text x="350" y="39" font-size="13" fill="#8A8A8A" text-anchor="middle" dominant-baseline="central" style="font-family:'Cascadia Code','Cascadia Mono',Consolas,'Courier New',monospace">felix — zsh</text>
+  <text x="350" y="39" font-size="13" fill="#8A8A8A" text-anchor="middle" dominant-baseline="central" style="font-family:'Cascadia Code','Cascadia Mono',Consolas,'Courier New',monospace">infcelerity — zsh</text>
 
   <g font-size="16" style="font-family:'Cascadia Code','Cascadia Mono',Consolas,'Courier New',monospace">
-    <text x="44" y="80" textLength="172.8" lengthAdjust="spacing"><tspan fill="#0550AE">felix@discpu</tspan><tspan fill="#8A8A8A">:</tspan><tspan fill="#006B80">~</tspan><tspan fill="#8A8A8A"> % </tspan></text>
+    <text x="44" y="80" textLength="172.8" lengthAdjust="spacing"><tspan fill="#0550AE">infcelerity@discpu</tspan><tspan fill="#8A8A8A">:</tspan><tspan fill="#006B80">~</tspan><tspan fill="#8A8A8A"> % </tspan></text>
     <text x="226.4" y="80" fill="#3B3B3B">whoami</text>
 
-    <text x="44" y="108.8" fill="#3B3B3B">felix</text>
+    <text x="44" y="108.8" fill="#3B3B3B">infcelerity</text>
 
-    <text x="44" y="137.6" textLength="172.8" lengthAdjust="spacing"><tspan fill="#0550AE">felix@discpu</tspan><tspan fill="#8A8A8A">:</tspan><tspan fill="#006B80">~</tspan><tspan fill="#8A8A8A"> % </tspan></text>
+    <text x="44" y="137.6" textLength="172.8" lengthAdjust="spacing"><tspan fill="#0550AE">infcelerity@discpu</tspan><tspan fill="#8A8A8A">:</tspan><tspan fill="#006B80">~</tspan><tspan fill="#8A8A8A"> % </tspan></text>
   </g>
 
   <rect x="226.4" y="121.6" width="10" height="18" fill="#3B3B3B">
