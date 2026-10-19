@@ -3,7 +3,7 @@
 </p>
 <h2>
   <p align="center">
-    <code>\_✨Welcome to InfCelerity's Page✨\_</code>
+    <code>_✨Welcome to InfCelerity's Page✨_</code>
   </p>
 </h2>
 
