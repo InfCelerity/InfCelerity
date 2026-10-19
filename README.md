@@ -18,7 +18,7 @@
 |📍 **所在地**|北京，中国|
 |🎯 **关注方向**|程序开发、AI Coding|
 |💬 **语言**|中文、English|
-|🎮**娱乐**|Minecraft|
+|🎮 **娱乐**|Minecraft|
 \---
 
 ## 🛠️ 技术栈 / Tech Stack
